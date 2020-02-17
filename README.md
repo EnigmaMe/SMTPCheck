@@ -1,0 +1,2 @@
+# SMTPCheck
+Checks SMTP Credentials
