@@ -1,8 +1,7 @@
-
 #SMTPCheck Developed by @BeefOverflow
 import smtplib
 print("SMTPCheck - Checks the authenticity of SMTP credentials against a host")
-host = raw_input("\nEnter your hostname:\n")
+host = raw_input("\nEnter your hostname (Example: domain.net:587):\n")
 username = raw_input("Enter your username:\n")
 password = raw_input("Enter your password\n")
 print("\n[*] Connecting to SMTP Server")
